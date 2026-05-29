@@ -25,3 +25,12 @@ A WPF C# cybersecurity chatbot application with two projects:
 - XAML for UI design
 - File I/O for chat saving
 - OOP principles and data structures**
+
+## Cybersecurity Topics Covered
+- Password safety
+- Phishing awareness
+- Malware protection
+- Privacy tips
+- Scam detection
+- Wi-Fi security
+- Two-Factor Authentication
