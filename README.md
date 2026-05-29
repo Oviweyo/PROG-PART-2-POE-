@@ -19,3 +19,9 @@ A WPF C# cybersecurity chatbot application with two projects:
 1. Open the solution in Visual Studio
 2. Build and run the project
 3. Enter your name to start chatting
+
+4. **## Technologies Used
+- C# WPF (.NET Framework)
+- XAML for UI design
+- File I/O for chat saving
+- OOP principles and data structures**
